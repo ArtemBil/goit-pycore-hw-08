@@ -1,0 +1,2 @@
+class InvalidFieldValueException(ValueError):
+  pass;
